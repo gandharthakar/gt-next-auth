@@ -1,0 +1,57 @@
+{
+  "name": "gt-next-auth",
+  "version": "0.1.0",
+  "description": "This is the best simple example of NextJs with NextAuth using TypeScript, Prisma And PostgreSQL Database With Google Sign In Functionality.",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:gandharthakar/gt-next-auth.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gandharthakar/gt-next-auth/issues"
+  },
+  "homepage": "https://github.com/gandharthakar/gt-next-auth#readme",
+  "author": "Gandhar Thakar",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "generate": "npx prisma generate",
+    "dbpush": "npx prisma db push",
+    "migrate": "npx prisma migrate dev",
+    "studio": "npx prisma studio"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.14.0",
+    "@reduxjs/toolkit": "^2.2.5",
+    "autoprefixer": "^10.4.19",
+    "bcrypt": "^5.1.1",
+    "cookies-next": "^4.2.1",
+    "jsonwebtoken": "^9.0.2",
+    "jwt-decode": "^4.0.0",
+    "next": "^14.2.3",
+    "next-auth": "^4.24.7",
+    "prisma": "^5.14.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-redux": "^9.1.2",
+    "react-toastify": "^10.0.5"
+  },
+  "devDependencies": {
+    "@types/bcrypt": "^5.0.2",
+    "@types/jsonwebtoken": "^9.0.6",
+    "@types/node": "^20.12.12",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "eslint": "^8",
+    "eslint-config-next": "^14.2.3",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.3",
+    "typescript": "^5.4.5"
+  },
+  "browserslist": [
+    "last 100 versions"
+  ]
+}
