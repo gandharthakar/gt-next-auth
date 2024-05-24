@@ -13,9 +13,10 @@
   "homepage": "https://github.com/gandharthakar/gt-next-auth#readme",
   "author": "Gandhar Thakar",
   "license": "MIT",
+  "keywords": ["NextJs", "JWT Token", "Prisma", "Prisma-orm", "PostgreSQL", "TypeScript", "react", "NextAuth"],
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "prisma generate && next build",
     "start": "next start",
     "lint": "next lint",
     "generate": "npx prisma generate",

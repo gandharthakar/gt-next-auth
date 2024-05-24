@@ -4,6 +4,14 @@ This is the best simple example of NextJs with NextAuth using TypeScript, Prisma
 
 You can able to normally sign in and sign up if you want or you can just sign in with google.
 
+### Project Demo / View Link
+
+Here is the link --> <a href="https://gt-next-auth.vercel.app/" title="Click Here" target="_blank">Click Here</a>
+
+### Screenshot Of The Project
+
+<img src="https://raw.githubusercontent.com/gandharthakar/gt-next-auth/main/public/proj-screenshot.png" alt="Project Screenshot" />
+
 ### Tech Stack
 
 <p>
@@ -33,14 +41,8 @@ You can able to normally sign in and sign up if you want or you can just sign in
     &nbsp;
     <img src="https://lh3.googleusercontent.com/u/0/d/1vqfAgQSVKkQGVO3bGdNyPWE4FPv-cLi9=w1920-h653-iv1" width="80px" height="80px" alt="Vercel" />
     &nbsp;
-    <img src="https://lh3.googleusercontent.com/u/0/d/1pKCBOSOx7IwAxy0Erwr6nQNC6_mMSBIL=w1920-h653-iv1" width="80px" height="80px" alt="Supabase" />
-    &nbsp;
     <img src="https://lh3.googleusercontent.com/u/0/d/1HkY6a17ZlhALhXnx-bwMFgHs26Smh7_j=w1920-h653-iv1" width="80px" height="80px" alt="Postman" />
 </p>
-
-### Project Demo / View Link
-
-Here is the link --> <a href="#" title="Click Here" target="_blank">Click Here</a>
 
 ### Connect With Me On
 
